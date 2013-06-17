@@ -47,7 +47,9 @@
     <string name="category_sensors_title">センサー</string>
     <string name="accelerometer_subcat_title">加速度センサー</string>
     <string name="accelerometer_calibration_title_head">キャリブレーションデータを使用</string>
-    <string name="accelerometer_calibration_summary_head">加速度センサーのキャリブレーション値を使用、チェック後キャリブレーションしてください</string>
+    <string name="accelerometer_calibration_summary_head">
+        加速度センサーのキャリブレーション値を使用、チェック後キャリブレーションしてください
+    </string>
     <string name="accelerometer_calibrate_title_head">キャリブレーション</string>
     <string name="accelerometer_calibrate_summary_head">電話機を水平なところに置いて、キャリブレーション実施する</string>
     <string name="accelerometer_dialog_head">キャリブレーション完了</string>
